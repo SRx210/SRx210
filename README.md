@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Namaste 🙏, I'm Sohan Raut</h1>
-<h3 align="center">A passionate 3rd Year Computer Engineering Student</h3>
 
 ---
 
