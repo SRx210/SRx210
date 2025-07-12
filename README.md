@@ -110,7 +110,6 @@
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=srx210&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
----
 
 ![Pacman contribution graph - dark mode](https://raw.githubusercontent.com/SRx210/SRx210/output/pacman-contribution-graph-dark.svg)
 
