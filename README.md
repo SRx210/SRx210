@@ -46,8 +46,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=opencv" height="50" alt="OpenCV" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
