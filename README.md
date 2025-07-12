@@ -21,39 +21,86 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-    </a>
-    <a href="https://opencv.org" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-    </a>
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40" />
-    </a>
-</p>
+### 🛠️ My Tech Stack
+
+#### 🧑‍💻 Programming Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+</div>
+
+---
+
+#### 🤖 AI/ML & Data Science
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="50" alt="OpenCV" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" />
+  <img width="12" />
+  <img src="https://numpy.org/images/logo.svg" height="40" alt="NumPy" />
+  <img width="12" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="Matplotlib" />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" />
+</div>
+
+---
+
+#### 🗄️ Databases
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="50" alt="Oracle" />
+</div>
+
+---
+
+#### 🌐 Web & App Development
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
+</div>
+
+---
+
+#### ⚙️ Tools & Platforms
+
+<div align="center">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
+</div>
 
 ---
 
@@ -68,8 +115,9 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+![Pacman contribution graph - dark mode](https://raw.githubusercontent.com/SRx210/SRx210/output/pacman-contribution-graph-dark.svg)
+
+
+
+
+
