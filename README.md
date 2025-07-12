@@ -104,13 +104,12 @@
 
 ### 📊 GitHub Stats:
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srx210&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srx210&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=srx210&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=srx210&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
-
 ---
 
 ![Pacman contribution graph - dark mode](https://raw.githubusercontent.com/SRx210/SRx210/output/pacman-contribution-graph-dark.svg)
