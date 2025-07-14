@@ -34,6 +34,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="50" alt="R" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
