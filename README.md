@@ -97,6 +97,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" height="50" alt="Power BI">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" />
