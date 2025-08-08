@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://github.com/SRx210/SRx210/blob/main/Github%20Banner.png" alt="GitHub Banner">
-</div>
-
 <h1 align="center">Namaste 🙏, I'm Sohan Raut</h1>
 
 ---
