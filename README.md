@@ -83,9 +83,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask" />
 </div>
 
 ---
